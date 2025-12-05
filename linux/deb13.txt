@@ -1,3 +1,5 @@
+# Setup via 'wget https://raw.githubusercontent.com/ItsMmmike/dot/refs/heads/main/linux/deb13.txt >> /etc/apt/sources.list' > then run 'apt update'
+
 # Repos used for Debian 13 apt updates
 deb https://deb.debian.org/debian/ trixie main contrib non-free non-free-firmware
 deb https://security.debian.org/debian-security trixie-security main contrib non-free non-free-firmware
